@@ -20,5 +20,5 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" fill="#DB7093" alt="STYLED-COMPONENT" height="30" width="40" src="https://user-images.githubusercontent.com/84432740/161378590-75b95e00-6278-4895-90fe-3fc5d1b5cc09.svg">
+  <img align="center"   alt="STYLED-COMPONENT" height="30" width="40" src="https://user-images.githubusercontent.com/84432740/161378781-04d8e06d-dbc0-4c79-9a0a-558b55da4691.png">
   </div>
