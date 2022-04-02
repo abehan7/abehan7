@@ -1,22 +1,28 @@
-### Hi there 👋
-<hr/>
+# Hi, there!
 
-My name is Abe Han<br/>
-I am a 24 years old, self-taught, beginner front-end developer from Korea.<br/>
-Programming is my main hobby which I have been progressively developing for months.<br/>
-So far I have no professional experience in programming, however I am looking forward to good collaboration in the future!<br/><br/><br/>
+### My name is Abe Han
+I am a 24 years old, self-taught, beginner front-end developer from Korea.
+Programming is my main hobby which I have been progressively developing for months.  
+So far I have no professional experience in programming, however I am looking forward to good collaboration in the future! 
 
-### <a href="https://urlseries.com/"> 🛠 Take a look, at the project I'm currently working on</a>
-<hr/>
-More about me <br/>
-📖 Currently learning Next.js and Redux<br/>
-🦉 My coding goals:<br/>
+## [🛠 Take a look, at the project I'm currently working on](https://urlseries.com/)
 
-Learn TypeScript<br/>
-Learn Solidity<br/>
-Learn Next.Js<br/>
-Learn React-Native<br/>
-📫 How to reach me:<br/><br/>
+#### __More about me__
+- 📖 Currently learning `Next.js`, `Solidity` and `React Native`
+<!-- - 🛠 Right now, working on __Debtnote__ -->
+- 🦉 My coding goals:
+    - Learn TypeScript
+    - Learn React Native
+    - Learn Smart Contract
+
+- 📫 How to reach me: 
+    - hanjk13262@gmail.com
+---
+### __My skills__
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![REACT](https://img.icons8.com/plasticine/48/000000/react.png)
 
  
-hanjk13262@gmail.com<br/>
+
