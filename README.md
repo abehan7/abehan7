@@ -20,3 +20,4 @@
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![REACT](https://img.icons8.com/plasticine/48/000000/react.png)
 ![icons8-typescript-48](https://user-images.githubusercontent.com/84432740/161379275-921a4901-f4f1-410d-bd56-dec8eee9bac2.png)
+![icons8-nodejs-48](https://user-images.githubusercontent.com/84432740/161379379-12f610a4-b855-410b-b9ea-260200b764ba.png)
