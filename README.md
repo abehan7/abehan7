@@ -1,5 +1,8 @@
 # Hi there 👋🏽
-  I'm Marcelle, a software developer from Brazil with experience building user-friendly, simple and delightful products. Currently travelling the world, coding and living 'La Dulce Vita'. 
+  I'm Abe Han 
+  a 22 years old, self-taught, beginner front-end developer from Korea.
+  Programming is my main hobby which I have been progressively developing for months.  
+  So far I have no professional experience in programming, however I am looking forward to good collaboration in the future! 
   
 
 - 🔭 I’m currently learning on developing coding skills!
