@@ -10,10 +10,7 @@ So far I have no professional experience in programming, however I am looking fo
 #### __More about me__
 - 📖 Currently learning `Next.js`, `Solidity` and `React Native`
 <!-- - 🛠 Right now, working on __Debtnote__ -->
-- 🦉 My coding goals:
-    - Learn TypeScript
-    - Learn React Native
-    - Learn Smart Contract
+🌱 I’m currently learning Next.js, React Native and everything about Web3.
 
 - 📫 How to reach me: 
     - hanjk13262@gmail.com
