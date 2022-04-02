@@ -1,9 +1,9 @@
 # Hi there 👋🏽
   I'm Abe Han 
-  24 years old, self-taught, beginner front-end developer from Korea.
-  Programming is my main hobby which I have been progressively developing for months.  
-  So far I have no professional experience in programming, however I am looking forward to good collaboration in the future! 
-  
+  24 years old, self-taught, beginner front-end developer from Korea.<br/>
+  Programming is my main hobby which I have been progressively developing for months.  <br/>
+  So far I have no professional experience in programming, however I am looking forward to good collaboration in the future! <br/>
+  <br/><br/>
 
 - 🔭 I’m currently learning on developing coding skills!
 - 🌱 I’m currently learning Next.js, React Native and everything about Web3.
