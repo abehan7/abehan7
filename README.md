@@ -18,4 +18,4 @@
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![REACT](https://img.icons8.com/plasticine/48/000000/react.png)
-
+![styledcomponents](https://user-images.githubusercontent.com/84432740/161378504-499f7175-4f66-4721-be55-60c8e440703a.svg)
