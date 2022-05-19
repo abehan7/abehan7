@@ -4,7 +4,7 @@
   I've been taken 6 month programming bootcamp, and selt-taught for 6 month.  <br/>
   I guess I'm kinda talented in this area cuz i was top in my bootcamp, <br/>
   and I really enjoy what I'm doing. <br/>
-  currently I'm into web 3.0 and doing NFT project.
+  currently I'm into web 3.0 and doing a NFT project.
   
   
 ## [🛠 Take a look, at the project I'm currently working on](https://urlseries.com/)
