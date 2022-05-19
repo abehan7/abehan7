@@ -8,7 +8,7 @@
   
   
 ## [🛠 Take a look, at the project I'm currently working on](https://abe-basic-minting-dapp.netlify.app/)
-#### [another one I like](https://urlseries.com/)
+#### [another one I made](https://urlseries.com/)
   
 ### __More about me__
 - 🔭 I’m currently learning on developing coding skills!
