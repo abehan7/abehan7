@@ -7,7 +7,7 @@
   currently I'm into web 3.0 and doing a NFT project.
   
   
-## [🛠 Take a look, at the project I'm currently working on](https://urlseries.com/)
+## [🛠 Take a look, at the project I'm currently working on](https://abe-basic-minting-dapp.netlify.app/)
   
 ### __More about me__
 - 🔭 I’m currently learning on developing coding skills!
