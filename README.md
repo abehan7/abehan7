@@ -1,10 +1,7 @@
 # Hi there 👋🏽
   I'm Abe Han 
-  24 years old, front-end developer from Korea.<br/>
-  I've been taken 6 month programming bootcamp, and selt-taught for 6 month.  <br/>
-  I guess I'm kinda talented in this area cuz i was top in the bootcamp, <br/>
-  and I really enjoy what I'm doing. <br/>
-  currently I'm into web 3.0 and doing a NFT project.
+  24 years old, web3.0 developer from Korea.<br/>
+
   
   
 ## [🛠 Take a look, at the project I'm currently working on](https://abe-basic-minting-dapp.netlify.app/)
