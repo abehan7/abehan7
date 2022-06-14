@@ -1,6 +1,5 @@
 # Hi there 👋🏽
-  I'm Abe Han 
-  24 years old, web3.0 developer from Korea.<br/>
+  I'm Abe, web3.0 developer from Korea.<br/>
 
   
   
