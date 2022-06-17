@@ -31,9 +31,9 @@
 <!-- ![GRAPGQL]() -->
 <div>
  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50px" />
- <img src = "https://user-images.githubusercontent.com/84432740/174242403-776354ee-edcb-46e8-8f06-df466f6426fa.svg" width="50px" />
  
- 
+ ![sol](https://user-images.githubusercontent.com/84432740/174243622-09f6dfa4-003d-4e1f-8bfd-918a32ab71e7.png)
+
 </div>
 
 
