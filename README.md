@@ -33,7 +33,6 @@
  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50px" />
  <img src = "https://user-images.githubusercontent.com/84432740/174243891-c8584cf6-167d-4e29-b5f8-1b2ed4ace432.png" height="50px" />
  
-![sol_typo](https://user-images.githubusercontent.com/84432740/174243891-c8584cf6-167d-4e29-b5f8-1b2ed4ace432.png)
 
 </div>
 
