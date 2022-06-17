@@ -30,5 +30,5 @@
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/84432740/161379379-12f610a4-b855-410b-b9ea-260200b764ba.png)
 <!-- ![GRAPGQL]() -->
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50px" />
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/659px-Solidity_logo.svg.png" width="50px" />
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/659px-Solidity_logo.svg.png" height="50px" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abehan7&show_icons=true)
