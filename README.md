@@ -31,6 +31,7 @@
 <!-- ![GRAPGQL]() -->
 <div>
  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50px" />
- <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/659px-Solidity_logo.svg.png" height="50px" width="50px" />
+ <img src = "https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" height="50px"  />
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abehan7&show_icons=true)
