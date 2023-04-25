@@ -1,10 +1,5 @@
 # Hi there 👋🏽
   I'm Abe, web3.0 developer from Korea.<br/>
-
-
-### __More about me__
-- 🔭 I’m currently learning on developing coding skills!
-- 🌱 I’m currently learning Next.js, React Native and everything about Web3.
             
             
 ### __📫 How to reach me__
