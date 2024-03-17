@@ -1,5 +1,5 @@
 # Hi there 👋🏽
-  I'm Abe, web3.0 developer from Korea.<br/>
+  I'm Abe from Korea.<br/>
             
             
 ### __📫 How to reach me__
