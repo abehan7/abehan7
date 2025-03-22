@@ -1,17 +1,17 @@
-# Hi there 👋🏽
-  I'm Abe from Korea.<br/>
-            
-            
-### __📫 How to reach me__
-<!-- - hanjk13262@gmail.com -->
-<a href = "mailto:hanjk13262@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--  <a href="https://www.linkedin.com/in/marcelleemendess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+### 👋 Hi, I'm Abe
 
+I'm a full stack developer based in South Korea 🇰🇷  
+Passionate about building clean, scalable, and intuitive web apps using **React, Next.js, TypeScript**, and **Serverless architecture**.
 
- 
- 
- 
+#### 🧑‍💻 What I’ve Built
+- [speakflu.com](https://speakflu.com) — Creator-based language learning platform (Next.js, Serverless, MongoDB)
+- [fluentspeaks.com](https://fluentspeaks.com) — AI-powered language study tool from YouTube (Next.js, OpenAI API)
+- [NFT Minting Projects](#) — 4 deployed Web3 dApps (React, Web3.js, Solidity, Ethers.js)
 
+#### 🧰 Tech Stack
+`React` `Next.js` `TypeScript` `Node.js` `MongoDB` `AWS Lambda` `Solidity` `Web3.js`
 
+#### 📬 Reach Me
+- LinkedIn: [https://www.linkedin.com/in/abe-han-25b8b320b](#) 
+- Email: hanjk13262@email.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abehan7&show_icons=true)
